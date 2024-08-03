@@ -57,8 +57,13 @@ Click on the microphone icon to start recording.
 Speak your message.
 Click the microphone icon again when you're done speaking to send the message.
 
-
 The application will process your input (either text or speech) and generate a response using the LLM.
+
+
+![ezgif-2-ef9a9e7acd](https://github.com/user-attachments/assets/29cc8f22-549f-4cea-b193-af730521bded)
+
+
+
 
 ## Credits and References
 
