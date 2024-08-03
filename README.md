@@ -60,5 +60,17 @@ Click the microphone icon again when you're done speaking to send the message.
 
 The application will process your input (either text or speech) and generate a response using the LLM.
 
+## Credits and References
+
+This project was developed with the help of the following resources:
+
+1. Voice Recognition: The implementation is partially based on the tutorial by Thomas Simonini:
+   [Building AI-Driven Voice Recognition](https://thomassimonini.substack.com/p/building-ai-driven-voice-recognition)
+
+2. LLM Inference: The inferencing part of this project is based on a sample provided by LLMUnity:
+   [LLMUnity ChatBot Sample](https://github.com/undreamai/LLMUnity/tree/main/Samples~/ChatBot)
+
+I recommend checking out these resources for more in-depth understanding of the underlying technologies and implementations.
+
 
 
