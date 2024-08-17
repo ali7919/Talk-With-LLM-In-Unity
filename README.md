@@ -1,6 +1,7 @@
 # Speech Recognition and LLM Inference for Unity
 
-![image](https://github.com/user-attachments/assets/2aaaa26c-2dc7-4b9d-a261-0c792c0142a6)
+![TalkWithLLM](https://github.com/user-attachments/assets/ab36a194-300f-4698-ab53-5002c75167ad)
+
 
 
 This project combines speech recognition using the Whisper model and [Sentis](https://unity.com/products/sentis) with LLM inference using [LLMUnity](https://github.com/undreamai/LLMUnity) and the Google Gemma2 2b model, all running on-device in Unity.
